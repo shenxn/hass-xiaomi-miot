@@ -1,8 +1,6 @@
 {
   "name": "Xiaomi Miot Auto",
   "content_in_root": false,
-  "zip_release": true,
-  "filename": "xiaomi_miot.zip",
   "render_readme": true,
   "hide_default_branch": true,
   "homeassistant": "2023.1.0"
