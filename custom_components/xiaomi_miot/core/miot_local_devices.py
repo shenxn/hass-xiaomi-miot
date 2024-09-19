@@ -529,6 +529,7 @@ MIOT_LOCAL_MODELS = [
     'pinlo.juicer.pbjs1',
     'pwzn.light.apple',
     'pwzn.plug.banana',
+    'qdhkl.aircondition.ac',
     'qdhkl.aircondition.b23',
     'qdhkl.gateway.b19',
     'qdhkl.gateway.ln0586',
